@@ -1,4 +1,4 @@
-# Test 1 #
+# Test 2 #
 
 ## Player Character ##
 
@@ -8,96 +8,86 @@ Background: Sailor
 
 Race: Forest Gnome
 
-Armor Class (AC): 18
+Armor Class (AC): 10
 
-Mental Resistance (MR): 11
+Mental Resistance (MR): 15
 
-Passive constitution: 12
+Passive constitution: 2
 
-Maximum Hit Points (HP): 92
+Maximum Hit Points (HP): 27
 
-Hit Dice: 8d10
+Hit Dice: 5d6
 
-Initiative: -1
+Initiative: +1
 
-Speed: 30
+Speed: 25
 
 Proficiency Bonus: +3
 
 | ***Stats*** | | |
 | ----- | ----- | ----- |
-| STR | 17 | (+3) |
-| DEX | 8  | (-1) |
-| CON | 16 | (+3) |
-| INT | 12 | (+1) |
-| WIS | 12 | (+1) |
-| CHA | 9  | (-1) |
+| STR | 10 | (+0) |
+| DEX | 14 | (+2) |
+| CON | 12 | (+1) |
+| INT | 16 | (+3) |
+| WIS | 14 | (+2) |
+| CHA | 10 | (+0) |
 
 | || ***Saving Throws*** |
 | ----- | ----- | ----- |
-| * | +6 | Strength |
-|   | -1 | Dexterity |
-| * | +6 | Constitution |
-|   | +1 | Intelligence |
-|   | +1 | Wisdom |
-|   | -1 | Charisma |
+|   | +0 | Strength |
+|   | +2 | Dexterity |
+|   | +1 | Constitution |
+| * | +6 | Intelligence |
+| * | +5 | Wisdom |
+|   | +0 | Charisma |
 
 | | | ***Skills*** | |
 | ----- | ----- | ----- | ----- |
-| * | +2 | Acrobatics | (Dex) |
-|   | +1 | Animal Handling | (Wis) |
-|   | +1 | Arcana | (Int) |
-| * | +6 | Athletics | (Str) |
-|   | -1 | Deception | (Cha) |
-|   | +1 | History | (Int) |
-|   | +1 | Insight | (Wis) |
-| * | +2 | Intimidataion | (Cha) |
-|   | +1 | Investigation | (Int) |
-|   | +1 | Medicine | (Wis) |
-|   | +1 | Nature | (Int) |
-| * | +4 | Perception | (Wis) |
-|   | -1 | Performance | (Cha) |
-|   | -1 | Persuasion | (Cha) |
-|   | +1 | Religion | (Int) |
-|   | -1 | Sleight of Hand | (Dex) |
-|   | -1 | Stealth | (Dex) |
-|   | +1 | Survival | (Wis) |
-| * | +6 | Blocking | (Str) |
+|   | +2 | Acrobatics | (Dex) |
+|   | +2 | Animal Handling | (Wis) |
+|   | +3 | Arcana | (Int) |
+| * | +3 | Athletics | (Str) |
+|   | +0 | Deception | (Cha) |
+|   | +3 | History | (Int) |
+|   | +2 | Insight | (Wis) |
+|   | +0 | Intimidataion | (Cha) |
+| * | +6 | Investigation | (Int) |
+| * | +5 | Medicine | (Wis) |
+|   | +3 | Nature | (Int) |
+| * | +5 | Perception | (Wis) |
+|   | +0 | Performance | (Cha) |
+|   | +0 | Persuasion | (Cha) |
+|   | +3 | Religion | (Int) |
+|   | +2 | Sleight of Hand | (Dex) |
+|   | +2 | Stealth | (Dex) |
+|   | +2 | Survival | (Wis) |
+|   | +0 | Blocking | (Str) |
 
-Passive wisdom (perception): 14
+Passive wisdom (perception): 15
 
 Darkvision
 
-Level: 8
+Level: 5
 
 ### Proficiencies and Languages ###
-Languages: Common, Orcish
+Languages: Common, Gnomish
 
-Armor: Light, Medium, Heavy (All)
+Armor: None
 
-Shields
-
-Weapons: Martial and Simple
-
-Tools: Alchemist
+Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
 
 ### Attacks and Spellcasting ###
 
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Glaive | +6 | 8 | 18 | Slashing | 11 | 10 | melee, two handed, polearm |
-| Greatsword | +6 | 10 | 20 | Slashing | 13 | 5 | melee, 2-handed |
-| Javelin (x10) | +6 | 6 | 12 | Piercing | 9 | 5 | melee, range, thrown, range 30-120 |
-| Polearm butt end | +6 | 5 | 9 | Bludgeoning | N/A | 5 | melee, bonus action if attack made with polearm immediately before |
-| Lance | +6 | 9 | 21 | Piercing | 12 | 10 | melee, two handed unless mounted, attacks with disadvantage on targets at or within 5 feet |
-
-Maneuver save DC: 11
+| Dagger (x2) | +3 | 2 | 4 | Piercing | 2 | 5 | melee |
 
 ### Equipment ###
 
-Splint armor (17 AC)
+Arcane Focus (orb)
 
-Shield (+1 AC, blocks for 11)
+Spellbook
 
 ### Features and Traits ###
 
@@ -105,68 +95,45 @@ Shield (+1 AC, blocks for 11)
 
 Darkvision: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-Relentless Endurance: When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you've finished a long rest.
+Gnome Cunning: All magical effects that roll against your MR roll at disadvantage, and you have advantage on mental saves against magic.
 
-Savage Attacks: When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+Speak with Small Beasts: Through sound and gestures, you may communicate simple ideas with Small or smaller beasts.
 
-#### Fighter Traits ####
-Fighting Style (Level 2): Defense: When you are wearing armor, you gain a +1 bonus to AC
+Natural Illusionist: You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
 
-Second Wind (Level 2): On your turn, you can use a bonus action to regain hit points equal to 5 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.
+#### Wizard Traits ####
+Arcane Recovery: Once per day when you finish a short rest, you can choose expended spell slots to
+recover. The spell slots can have a combined level that is
+equal to or less than half your wizard level (rounded up),
+and none of the slots can be 6th level or higher.
 
-Action Surge (Level 2): On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feature, you must finish a short or long rest before you can use it again.
-
-Extra Attack (Level 5): You can attack twice, instead of once, whenever you take the Attack action on your turn.
-
-##### Battlemaster Traits (Level 3) #####
-
-Student of War (Level 3): Proficiency with one type of artisan's tools of your choice.
-
-Regain superiority dice on a short or long rest. 
-
-Distracting Strike: When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
-
-Lunging Attack: When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
-
-Maneuvering Attack: When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
-
-Feinting Attack: You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature before the end of your turn. If that attack hits, add the superiority die to the attack's damage roll.
-
-Evasive Footwork: When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
+Grim Harvest (Level 2): Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.
 
 ### Feats ###
 
-Sentinel:
-* When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
-* Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
-* When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
+Magic Initiate:
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.
+In addition, choose one 1st-level spell to learn from that same list. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.
+Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-Polearm Master:
-* When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon's damage die for this attack is a d4, and it deals bludgeoning damage.
-* While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
+Spell Sniper:
+* When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
+* Your ranged spell attacks ignore half cover and three-quarters cover.
+* You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for warlock.
 
-Tough: Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points
+## Familiar ##
 
-Mounted Combatant:
-* You Have advantage on mele attack rolls against any unmounted creature that is smaller than your mount.
-* You can force an attack targeted at your mount to target you instead.
-* If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Owl
 
-### Inventory ###
+Tiny
 
-Potion of Healing (Heals 7)
-
-## Mount ##
-
-Warhorse
-
-Armor Class (AC): 16
+Armor Class (AC): 11
 
 Mental Resistance (MR): 10
 
-Passive Constitution: 2
+Passive Constitution: -2
 
-Maximum Hit Points (HP): 19
+Maximum Hit Points (HP): 1
 
 Initiative: +1
 
@@ -176,56 +143,380 @@ Proficiency Bonus: +2
 
 | ***Stats*** | | |
 | ----- | ----- | ----- |
-| STR | 18 | (+4) |
-| DEX | 12 | (+1) |
-| CON | 13 | (+1) |
+| STR | 3  | (-4) |
+| DEX | 13 | (+1) |
+| CON | 8  | (-1) |
 | INT | 2  | (-4) |
 | WIS | 12 | (+1) |
 | CHA | 7  | (-2) |
 
-Passive wisdom (perception): 11
+Perception +3
 
-Challenge Rating (CR): 1/2
+Stealth +3
+
+Darkvision 120 ft
+
+Passive wisdom (perception): 13
+
+Challenge Rating (CR): 0
 
 ### Traits ###
 
-Trampling Charge. If the horse moves at least 20 ft. straight toward a creature and then hits it with a hooves attack on the same turn and the creature did not block the attack, that target is knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
+Flyby. The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+
+Keen Hearing and Sight. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
 ### Actions ###
 
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Hooves | +6 | 11 | 14 | Bludgeoning | N/A | 5 | melee |
+| Talons | +0 | 1 | 2 | Slashing | N/A | 5 | melee |
 
-### Equipment ###
-
-Saddle of the Cavalier: While in this saddle on a mount, you can't be dismounted against your will if you're conscious, and attack rolls against the mount have disadvantage.
-
-Chain Mail Barding (16 AC)
+(Note: A familiar may not attack)
 
 # Addenda #
 
-## Mounted Combat Rules ##
-
-A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
-
-### Mounting and Dismounting ###
-
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
-
-If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same saving throw.
-
-If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
-
-### Controlling a Mount ###
-
-While you're mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
-
-You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
-
-An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
-
-In either case, if the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
-
 ## Spells ##
 
+### Cantrips ###
+
+| ***Chill Touch*** | |
+| ----- | ----- |
+| Level | 0 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | 120 ft |
+| Components | V, S |
+| Duration | 1 round |
+
+You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.
+
+If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
+
+This spell's damage increases by 1d8 when you reach 5th Level (2d8), 11th level (3d8), and 17th level (4d8).
+
+| ***Frostbite*** | |
+| ----- | ----- |
+| Level | 0 |
+| School | Evocation |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | V, S |
+| Duration | Instantaneous |
+
+Make a ranged spell attack. On hit, target takes d6 cold damage. Damage is compared to 2x(con + prof). If damage is equal or lower, combat continues, else target has disadvantage on next weapon attack roll it makes before the end of its next turn.
+
+The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+| ***Minor Illusion*** | |
+| ----- | ----- |
+| Level | 0 |
+| School | Illusion |
+| Time | 1 action |
+| Range | 30 ft |
+| Components | S, M (a bit of fleece) |
+| Duration | 1 minute |
+
+(Obtained via racial trait)
+
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
+
+If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
+
+If you create an image of an object--such as a chair, muddy footprints, or a small chest--it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
+
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+
+| ***Ray of Frost*** | |
+| ----- | ----- |
+| Level | 0 |
+| School | Evocation |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | V, S |
+| Duration | Instantaneous |
+
+A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+| ***Sacred Flame*** | |
+| ----- | ----- |
+| Level | 0 |
+| School | Evocation |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | V, S |
+| Duration | Instantaneous |
+
+(Obtained via Magic Initiate - use Wisdom)
+
+Flame-like radiance descends on a creature that you can see within range. Make a ranged spell attack against the target If it hits, the target takes 1d8 radiant damage. The target gains no benefit from cover against this attack.
+
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+| ***Shocking Grasp*** | |
+| ----- | ----- |
+| Level | 0 |
+| School | Evocation |
+| Time | 1 Action |
+| Range | Touch |
+| Components | V, S |
+| Duration | Instantaneous |
+
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.
+
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+| ***Spare the Dying*** | |
+| ----- | ----- |
+| Level | 0 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | Touch |
+| Components | V, S |
+| Duration | Instantaneous |
+
+(Obtained via Magic Initiate)
+
+You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+
+| ***Toll the Dead*** | |
+| ----- | ----- |
+| Level | 0 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | V, S |
+| Duration | Instantaneous |
+
+You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. Make a ranged spell attack against the target's MR. If it hits, the target takes 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.
+
+The spell’s damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
+
+### Level 1 ###
+
+| ***Cause Fear*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | V |
+| Duration | Concentration, up to 1 minute |
+
+You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. if you succeed on a ranged spell attack against the creature's MR, it becomes frightened of you until the spell ends. The effect lasts for (ranged spell attack value - creature's MR) rounds, up to a maximum of 10.
+
+When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+
+| ***Chromatic Orb*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Evocation |
+| Time | 1 action |
+| Range | 90 ft |
+| Components | V, S, M (a diamond worth at least 50 gp) |
+| Duration | Instantaneous |
+
+You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.
+
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
+| ***Cure Wounds*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Evocation |
+| Time | 1 action | 
+| Range | Touch |
+| Components | V, S |
+| Duration | Instantaneous |
+
+(Obtained via Magic Initiate - can use only once per long rest with a level 1 spell slot, uses Wisdom)
+
+A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+| ***Find Familiar*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Conjuration |
+| Ritual | YES |
+| Time | 1 hour |
+| Range | 10 ft |
+| Components | V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier) |
+| Duration | Instantaneous |
+
+You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+
+Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can’t attack, but it can take other actions as normal.
+
+When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again.
+
+While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
+
+As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.
+
+You can’t have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.
+
+Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
+
+| ***Frost Fingers*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Evocation |
+| Time | 1 action |
+| Range | Self (15-foot cone) |
+| Components | V, S |
+| Duration | Instantaneous |
+
+Freezing cold blasts from your fingertips in a 15-foot cone. Each creature in that area must make a Constitution saving throw, taking 2d8 cold damage on a failed save, or half as much damage on a successful one.
+
+The cold freezes nonmagical liquids in the area that aren't being worn or carried.
+
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
+| ***Ice Knife*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Conjuration |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | S, M (a drop of water or piece of ice) |
+| Duration | Instantaneous |
+
+You create a shard of ice and fling it at one creature within range. You make two spell attacks, one for the knife, one for the explosion. If the knife hits, the target takes 1d10 piercing damage. Creatures within 5 feet of the original target compare your second attack to their AC. If they fail, they take 2d6 cold damage.
+
+When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
+
+| ***Magic Missile*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Evocation |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | V, S |
+| Duration | Instantaneously |
+
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
+
+When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+
+| ***Ray of Sickness*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | V, S |
+| Duration | Instantaneous |
+
+A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage. The damage is compared to the target's passive constituation. If it is higher, the target is also poisoned until the end of your next turn.
+
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
+| ***Shield*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Abjuration |
+| Time | 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell |
+| Range | Self |
+| Components | V, S |
+| Duration | 1 round |
+
+An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
+
+| ***Sleep*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Enchantment |
+| Time | 1 action |
+| Range | 90 ft |
+| Components | V, S, M (a pinch of fine sand, rose petals, or a cricket) |
+| Duration | 1 minute |
+
+This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
+
+Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected. Undead and creatures immune to being charmed aren’t affected by this spell.
+
+When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
+
+| ***Stubbornness*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Abjuration |
+| Time | 1 reaction, which you take when you detect that someone is attempting to use a mental attack on you |
+| Range | Self |
+| Components | V, S |
+| Duration | 1 round |
+
+Until the start of your next turn, you have a +5 bonus to MR, including against the triggering attack, and automatically stops Charm Person.
+
+### Level 2 ###
+
+| ***Enlarge/Reduce*** | |
+| ----- | ----- |
+| Level | 2 |
+| School | Transmutation |
+| Time | 1 action |
+| Range | 30 ft |
+| Components | V, S, M (a pinch of powdered iron) |
+| Duration | Concentration, up to 1 minute |
+
+You cause a creature or an object you can see within range to grow larger or smaller for the Duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.
+
+If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
+
+Enlarge. The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category - from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength Saving Throws. The target's Weapons also grow to match its new size. While these Weapons are enlarged, the target's Attack with them deal 1d4 extra damage.
+
+Reduce. The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category - from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength Saving Throws. The target's Weapons also shrink to match its new size. While these Weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
+
+| ***Invisibility*** | |
+| ----- | ----- |
+| Level | 2 |
+| School | Illusion |
+| Time | 1 action |
+| Range | Touch |
+| Components | V, S, M (an eyelash encased in gum arabic) |
+| Duration | Concentration, up to 1 hour |
+
+A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.
+
+When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+| ***Ray of Enfeeblement*** | |
+| ----- | ----- |
+| Level | 2 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | V, S |
+| Duration | Concentration, up to 1 minute |
+
+A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.
+
+At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
+
+| ***Snilloc's Snowball Swarm*** | |
+| ----- | ----- |
+| Level | 2 |
+| School | Evocation |
+| Time | 1 action |
+| Range | 90 ft |
+| Components | V, S, M (a piece of ice or a small white rock chip) |
+| Duration | Instantaneous |
+
+A flurry of magic snowballs erupts from a point you choose within range. Make a ranged spell attack. Each creature in a 5-foot-radius sphere centered on that point must compare their AC against your attack. A creature takes 3d6 cold damage if you hit.
+
+### Level 3 ###
+
+| ***Ice Barrage*** | |
+| ----- | ----- |
+| Level | 3 |
+| School | Evocation |
+| Time | 1 action |
+| Range | 40 ft |
+| Components | V, S, M (Rain water and either some salt or a hand fan) |
+| Duration | Instantaneous |
+
+Pick two points, both within range of the caster. An icy wind blows from one to the other.  It starts centered at one point, with width 10 ft and 50 ft tall, and instantaneously moves in a straight line to the other point. The caster makes a ranged spell attack. All creatures within the targeted area get hit based on their AC.
