@@ -162,6 +162,8 @@ Potion of Healing (Heals 7)
 
 Warhorse
 
+Large beast
+
 Armor Class (AC): 16
 
 Mental Resistance (MR): 10
