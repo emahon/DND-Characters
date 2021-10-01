@@ -127,7 +127,7 @@ Spell Sniper:
 
 ### Inventory ###
 
-Potion of Healing (Heals 7)
+x Potion of Healing (Heals 7)
 
 Healer's Kit
 

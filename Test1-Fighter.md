@@ -150,13 +150,13 @@ Polearm Master:
 Tough: Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points
 
 Mounted Combatant:
-* You Have advantage on mele attack rolls against any unmounted creature that is smaller than your mount.
+* You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
 * You can force an attack targeted at your mount to target you instead.
 * If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
 ### Inventory ###
 
-Potion of Healing (Heals 7)
+x Potion of Healing (Heals 7)
 
 ## Mount ##
 
