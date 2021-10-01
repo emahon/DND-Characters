@@ -26,6 +26,15 @@ Speed: 30
 
 Proficiency Bonus: +3
 
+Superiority:
+[ ] [ ] [ ] [ ] [ ]
+
+Action Surge: [ ]
+
+Second Wind: [ ]
+
+
+
 | ***Stats*** | | |
 | ----- | ----- | ----- |
 | STR | 17 | (+3) |
