@@ -29,7 +29,8 @@ Spell Slots:
 2: 3(3)
 3: 3(3)
 4: 3(3)
-5: 1(1)
+5: 2(2)
+6: 1(1)
 
 | ***Stats*** | | |
 | ----- | ----- | ----- |
@@ -75,7 +76,7 @@ Passive wisdom (perception): 16
 
 Darkvision
 
-Level: 9
+Level: 11
 
 ### Proficiencies and Languages ###
 Languages: Common, Gnomish
@@ -126,6 +127,7 @@ Undead Thralls (Level 6): When you cast animate dead, you can target one additio
 * The creature's hit point maximum is increased by an amount equal to your wizard level
 * The creature adds your proficiency bonus to its weapon damage rolls
 
+Inured to Undeath (Level 10): You have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.
 
 ### Feats ###
 
@@ -146,6 +148,10 @@ x Potion of Healing (Heals 7)
 Healer's Kit
 
 Holy Water (x3)
+
+Tiny silver cage worth 100 gp (for Soul Cage)
+
+Superior Potion of Healing (Heals 28)
 
 ## Familiar ##
 
@@ -266,6 +272,17 @@ In either case, if the mount provokes an opportunity attack while you're on it, 
 ## Spells ##
 
 ### Cantrips ###
+
+| ***Blade Ward*** | |
+| ----- | ----- |
+| Level | 0 |
+| School | Abjuration |
+| Time | 1 action |
+| Range | Self |
+| Components | V, S |
+| Duration | 1 round |
+
+You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
 
 | ***Chill Touch*** | |
 | ----- | ----- |
@@ -756,3 +773,69 @@ When you cast this spell using a spell slot of 5th level or higher, the damage i
 | Duration | Concentration, up to 1 minute |
 
 You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person.
+
+### Level 5 ###
+
+| ***Danse Macabre*** | |
+| ----- | ----- |
+| Level | 5 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | 60 feet |
+| Components | V, S |
+| Duration | Concentration, up to 1 hour |
+
+Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a zombie or a skeleton (the statistics for zombies and skeletons are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier. You can use a bonus action to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
+
+The creatures are under your control until the spell ends, after which they become inanimate once more.
+
+When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
+
+| ***Enervation*** | |
+| ----- | ----- |
+| Level | 5 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | 60 feet |
+| Components | V, S |
+| Duration | Concentration, up to 1 minute |
+
+A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. You make a spell attack against the target. If you hit, the target takes 4d8 necrotic damage, and until the spell ends, you can use your action on each of your turns to automatically deal 4d8 necrotic damage to the target. The spell ends if you use your action to do anything else, if the target is ever outside the spell’s range, or if the target has total cover from you. Whenever the spell deals damage to a target, you regain hit points equal to half the amount of necrotic damage the target takes.
+
+When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+
+### Level 6 ###
+
+| ***Circle of Death*** | |
+| ----- | ----- |
+| Level | 6 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | 150 feet | 
+| Components | V, S, M (the powder of a crushed black pearl worth at least 500 gp) |
+| Duration | Instantaneous |
+
+A sphere of negative energy ripples out in a 60-foot-radius sphere from a point within range. A target takes 8d6 necrotic damage minus their passive constitution.
+
+When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
+
+| ***Soul Cage*** | |
+| ----- | ----- |
+| Level | 6 |
+| School | Necromancy |
+| Time | 1 reaction, which you take when a humanoid you can see within 60 feet of you dies |
+| Range | 60 feet |
+| Components | V, S, M (a tiny silver cage worth 100 gp) |
+| Duration | 8 hours |
+
+This spell snatches the soul of a humanoid as it dies and traps it inside the tiny cage you use for the material component. A stolen soul remains inside the cage until the spell ends or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released, and the spell ends. While a soul is trapped, the dead humanoid it came from can’t be revived.
+
+Steal Life. You can use a bonus action to drain vigor from the soul and regain 2d8 hit points.
+
+Query Soul. You ask the soul a question (no action required) and receive a brief telepathic answer, which you can understand regardless of the language used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
+
+Borrow Experience. You can use a bonus action to bolster yourself with the soul’s life experience, making your next attack roll, ability check, or saving throw with advantage. If you don’t use this benefit before the start of your next turn, it is lost.
+
+Eyes of the Dead. You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you’re currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+
+A creature that can see the sensor (such as one using see invisibility or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
