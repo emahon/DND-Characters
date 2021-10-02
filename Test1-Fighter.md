@@ -105,7 +105,7 @@ Maneuver save DC: 12
 
 Plate armor (18 AC)
 
-Shield (+1 AC, blocks for 11)
+Shield (+1 AC, blocks for 12)
 
 ### Features and Traits ###
 
