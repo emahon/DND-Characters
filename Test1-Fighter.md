@@ -10,21 +10,21 @@ Race: Half-Orc
 
 5(5) Superiority Dice: d8(4)
 
-Armor Class (AC): 18
+Armor Class (AC): 19
 
 Mental Resistance (MR): 11
 
-Passive constitution: 12
+Passive constitution: 14
 
-Maximum Hit Points (HP): 92
+Maximum Hit Points (HP): 125
 
-Hit Dice: 8d10
+Hit Dice: 11d10
 
 Initiative: -1
 
 Speed: 30
 
-Proficiency Bonus: +3
+Proficiency Bonus: +4
 
 Action Surge: [ ]
 
@@ -43,40 +43,40 @@ Second Wind: [ ]
 
 | || ***Saving Throws*** |
 | ----- | ----- | ----- |
-| * | +6 | Strength |
+| * | +7 | Strength |
 |   | -1 | Dexterity |
-| * | +6 | Constitution |
+| * | +7 | Constitution |
 |   | +1 | Intelligence |
 |   | +1 | Wisdom |
 |   | -1 | Charisma |
 
 | | | ***Skills*** | |
 | ----- | ----- | ----- | ----- |
-| * | +2 | Acrobatics | (Dex) |
+| * | +3 | Acrobatics | (Dex) |
 |   | +1 | Animal Handling | (Wis) |
 |   | +1 | Arcana | (Int) |
-| * | +6 | Athletics | (Str) |
+| * | +7 | Athletics | (Str) |
 |   | -1 | Deception | (Cha) |
 |   | +1 | History | (Int) |
 |   | +1 | Insight | (Wis) |
-| * | +2 | Intimidataion | (Cha) |
+| * | +3 | Intimidataion | (Cha) |
 |   | +1 | Investigation | (Int) |
 |   | +1 | Medicine | (Wis) |
 |   | +1 | Nature | (Int) |
-| * | +4 | Perception | (Wis) |
+| * | +5 | Perception | (Wis) |
 |   | -1 | Performance | (Cha) |
 |   | -1 | Persuasion | (Cha) |
 |   | +1 | Religion | (Int) |
 |   | -1 | Sleight of Hand | (Dex) |
 |   | -1 | Stealth | (Dex) |
 |   | +1 | Survival | (Wis) |
-| * | +6 | Blocking | (Str) |
+| * | +7 | Blocking | (Str) |
 
-Passive wisdom (perception): 14
+Passive wisdom (perception): 15
 
 Darkvision
 
-Level: 8
+Level: 11
 
 ### Proficiencies and Languages ###
 Languages: Common, Orcish
@@ -93,17 +93,17 @@ Tools: Alchemist
 
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Glaive | +6 | 8 | 18 | Slashing | 11 | 10 | melee, two handed, polearm |
-| Greatsword | +6 | 10 | 20 | Slashing | 13 | 5 | melee, 2-handed |
-| Javelin (x10) | +6 | 6 | 12 | Piercing | 9 | 5 | melee, range, thrown, range 30-120 |
-| Polearm butt end | +6 | 5 | 9 | Bludgeoning | N/A | 5 | melee, bonus action if attack made with polearm immediately before |
-| Lance | +6 | 9 | 21 | Piercing | 12 | 10 | melee, two handed unless mounted, attacks with disadvantage on targets at or within 5 feet |
+| +1 Glaive | +8 | 9 | 20 | Slashing | 13 | 10 | melee, two handed, polearm |
+| Greatsword | +7 | 10 | 20 | Slashing | 14 | 5 | melee, 2-handed |
+| +1 Javelin (x10) | +8 | 7 | 14 | Piercing | 11 | 5 | melee, range, thrown, range 30-120 |
+| +1 Glaive butt end | +8 | 6 | 11 | Bludgeoning | N/A | 5 | melee, bonus action if attack made with polearm immediately before |
+| +1 Lance | +8 | 10 | 23 | Piercing | 14 | 10 | melee, two handed unless mounted, attacks with disadvantage on targets at or within 5 feet |
 
-Maneuver save DC: 11
+Maneuver save DC: 12
 
 ### Equipment ###
 
-Splint armor (17 AC)
+Plate armor (18 AC)
 
 Shield (+1 AC, blocks for 11)
 
@@ -125,6 +125,8 @@ Second Wind (Level 2): On your turn, you can use a bonus action to regain hit po
 Action Surge (Level 2): On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feature, you must finish a short or long rest before you can use it again.
 
 Extra Attack (Level 5): You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+Indomitable (Level 9): You can reroll a saving throw that you fail. Or, if you are hit by a mental effect, you may force the attacker to reroll. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 ##### Battlemaster Traits (Level 3) #####
 
@@ -170,7 +172,7 @@ Warhorse
 
 Large beast
 
-Armor Class (AC): 16
+Armor Class (AC): 17
 
 Mental Resistance (MR): 10
 
@@ -211,7 +213,7 @@ Trampling Charge. If the horse moves at least 20 ft. straight toward a creature 
 
 Saddle of the Cavalier: While in this saddle on a mount, you can't be dismounted against your will if you're conscious, and attack rolls against the mount have disadvantage.
 
-Chain Mail Barding (16 AC)
+Splint Barding (17 AC)
 
 # Addenda #
 
