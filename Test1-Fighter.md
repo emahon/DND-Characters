@@ -181,6 +181,8 @@ Mounted Combatant:
 
 x Potion of Healing (Heals 7)
 
+Superior Potion of Healing (Heals 28)
+
 ## Mount ##
 
 Warhorse
