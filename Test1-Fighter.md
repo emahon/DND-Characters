@@ -8,7 +8,7 @@ Background: Sailor
 
 Race: Half-Orc
 
-6 Superiority Dice: d8(4)
+5(5) Superiority Dice: d8(4)
 
 Armor Class (AC): 18
 
@@ -25,9 +25,6 @@ Initiative: -1
 Speed: 30
 
 Proficiency Bonus: +3
-
-Superiority:
-[ ] [ ] [ ] [ ] [ ]
 
 Action Surge: [ ]
 

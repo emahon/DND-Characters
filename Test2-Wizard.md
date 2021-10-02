@@ -25,10 +25,10 @@ Speed: 25
 Proficiency Bonus: +3
 
 Spell Slots:
-1: [ ] [ ] [ ] [ ]
-2: [ ] [ ] [ ]
-3: [*] [*] [*]
-4: [ ] [ ]
+1: 4(4)
+2: 3(3)
+3: 3(3)
+4: 2(2)
 
 | ***Stats*** | | |
 | ----- | ----- | ----- |
@@ -88,6 +88,10 @@ Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Dagger (x2) | +3 | 2 | 4 | Piercing | 2 | 5 | melee |
+| Mental Spell Attack | +6 |
+| Physical Spell Attack | +5 |
+
+Spell Save DC: 14
 
 ### Equipment ###
 
