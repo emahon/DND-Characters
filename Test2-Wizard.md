@@ -8,27 +8,28 @@ Background: Sailor
 
 Race: Forest Gnome
 
-Armor Class (AC): 10
+Armor Class (AC): 12
 
-Mental Resistance (MR): 15
+Mental Resistance (MR): 16
 
 Passive constitution: 4
 
-Maximum Hit Points (HP): 50
+Maximum Hit Points (HP): 68
 
-Hit Dice: 8d6
+Hit Dice: 11d6
 
 Initiative: +2
 
 Speed: 25
 
-Proficiency Bonus: +3
+Proficiency Bonus: +4
 
 Spell Slots:
 1: 4(4)
 2: 3(3)
 3: 3(3)
-4: 2(2)
+4: 3(3)
+5: 1(1)
 
 | ***Stats*** | | |
 | ----- | ----- | ----- |
@@ -44,8 +45,8 @@ Spell Slots:
 |   | +0 | Strength |
 |   | +2 | Dexterity |
 |   | +2 | Constitution |
-| * | +6 | Intelligence |
-| * | +5 | Wisdom |
+| * | +7 | Intelligence |
+| * | +6 | Wisdom |
 |   | +0 | Charisma |
 
 | | | ***Skills*** | |
@@ -53,15 +54,15 @@ Spell Slots:
 |   | +2 | Acrobatics | (Dex) |
 |   | +2 | Animal Handling | (Wis) |
 |   | +3 | Arcana | (Int) |
-| * | +3 | Athletics | (Str) |
+| * | +4 | Athletics | (Str) |
 |   | +0 | Deception | (Cha) |
 |   | +3 | History | (Int) |
 |   | +2 | Insight | (Wis) |
 |   | +0 | Intimidataion | (Cha) |
-| * | +6 | Investigation | (Int) |
-| * | +5 | Medicine | (Wis) |
+| * | +7 | Investigation | (Int) |
+| * | +6 | Medicine | (Wis) |
 |   | +3 | Nature | (Int) |
-| * | +5 | Perception | (Wis) |
+| * | +6 | Perception | (Wis) |
 |   | +0 | Performance | (Cha) |
 |   | +0 | Persuasion | (Cha) |
 |   | +3 | Religion | (Int) |
@@ -70,11 +71,11 @@ Spell Slots:
 |   | +2 | Survival | (Wis) |
 |   | +0 | Blocking | (Str) |
 
-Passive wisdom (perception): 15
+Passive wisdom (perception): 16
 
 Darkvision
 
-Level: 8
+Level: 9
 
 ### Proficiencies and Languages ###
 Languages: Common, Gnomish
@@ -87,17 +88,19 @@ Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
 
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Dagger (x2) | +3 | 2 | 4 | Piercing | 2 | 5 | melee |
-| Mental Spell Attack | +6 |
-| Physical Spell Attack | +5 |
+| Dagger (x2) | +4 | 2 | 4 | Piercing | 2 | 5 | melee |
+| Mental Spell Attack | +7 |
+| Physical Spell Attack | +6 |
 
-Spell Save DC: 14
+Spell Save DC: 15
 
 ### Equipment ###
 
 Arcane Focus (orb)
 
 Spellbook
+
+Bracers of Defense (Wonderous item, rare (requires attunement)): While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.
 
 ### Features and Traits ###
 
@@ -122,6 +125,7 @@ Grim Harvest (Level 2): Once per turn when you kill one or more creatures with a
 Undead Thralls (Level 6): When you cast animate dead, you can target one additional corpse or a pile of bones, creating another zombie or skeleton, as appropriate. Whenever you create an undead using a necromancy spell, it has additional benefits:
 * The creature's hit point maximum is increased by an amount equal to your wizard level
 * The creature adds your proficiency bonus to its weapon damage rolls
+
 
 ### Feats ###
 
@@ -485,6 +489,17 @@ You create a shard of ice and fling it at one creature within range. You make tw
 
 When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
 
+| ***Mage Armor*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Abjuration |
+| Time | 1 action |
+| Range | Touch |
+| Components | V, S, M (a piece of cured leather) |
+| Duration | 8 hours |
+
+You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 11 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+
 | ***Magic Missile*** | |
 | ----- | ----- |
 | Level | 1 |
@@ -579,6 +594,19 @@ Reduce. The target's size is halved in all dimensions, and its weight is reduced
 A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.
 
 When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+| ***Magic Weapon*** | | 
+| ----- | ----- |
+| Level | 2 |
+| School | Transmutation |
+| Time | 1 bonus action |
+| Range | Touch |
+| Components | V, S |
+| Duration | Concentration, 1 hour |
+
+You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
+
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
 | ***Ray of Enfeeblement*** | |
 | ----- | ----- |
