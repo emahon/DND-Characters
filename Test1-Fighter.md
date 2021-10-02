@@ -8,7 +8,7 @@ Background: Sailor
 
 Race: Half-Orc
 
-5(5) Superiority Dice: d8(4)
+5(5) Superiority Dice: d10(5)
 
 Armor Class (AC): 19
 
@@ -125,12 +125,23 @@ Second Wind (Level 2): On your turn, you can use a bonus action to regain hit po
 Action Surge (Level 2): On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feature, you must finish a short or long rest before you can use it again.
 
 Extra Attack (Level 5): You can attack twice, instead of once, whenever you take the Attack action on your turn.
+(Level 11) The number of attacks increases to three.
 
 Indomitable (Level 9): You can reroll a saving throw that you fail. Or, if you are hit by a mental effect, you may force the attacker to reroll. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 ##### Battlemaster Traits (Level 3) #####
 
 Student of War (Level 3): Proficiency with one type of artisan's tools of your choice.
+
+Know Your Enemy (Level 7): If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
+
+* Strength score
+* Dexterity score
+* Constitution score
+* Armor class
+* Current hit points
+* Total class levels (if any)
+* Fighter class levels (if any)
 
 Regain superiority dice on a short or long rest. 
 
@@ -143,6 +154,10 @@ Maneuvering Attack: When you hit a creature with a weapon attack, you can expend
 Feinting Attack: You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature before the end of your turn. If that attack hits, add the superiority die to the attack's damage roll.
 
 Evasive Footwork: When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
+
+Precision Attack: When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.
+
+Sweeping Attack: When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature wtihin 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
 
 ### Feats ###
 
