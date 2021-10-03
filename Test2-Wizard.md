@@ -245,6 +245,56 @@ Challenge Rating (CR): 1/8
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Hooves | +4 | 7 | 12 | Bludgeoning | N/A | 5 | melee |
 
+## Skeleton A ##
+
+Skeleton
+
+Medium Undead
+
+Armor Class (AC): 14
+
+Mental Resistance (MR): 9
+
+Hit Points (HP): 24
+
+Passive Constitution: 4
+
+Initiative: +2
+
+Speed: 30
+
+Proficiency bonus: +2
+
+| ***Stats*** | | |
+| ----- | ----- | ----- |
+| STR | 10 | (+0) |
+| DEX | 14 | (+2) |
+| CON | 15 | (+2) |
+| INT | 6  | (-2) |
+| WIS | 8  | (-1) |
+| CHA | 5  | (-3) |
+
+Damage Vulnerabilities: bludgeoning
+
+Damage Immunities: Poison
+
+Condition Immunities: Exhaustion, poisoned
+
+Darkvision 60
+
+Passive wisdom (perception): 9
+
+Challenge Rating (CR): 1/4
+
+### Actions ###
+
+| ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Greatsword | +2 | 11 | 18 | Slashing | 7 | 5 | Melee, two-handed, heavy | 
+| Longbow | +4 | 10 | 15 | Piercing | N/A | N/A | Ammunition, range 150-600, heavy, two-handed |
+| Longsword (1 hand) | +2 | 8 | 13 | Slashing | 4 | 5 | Melee | 
+| Longsword (2 hand) | +2 | 9 | 15 | Slashing | 5 | 5 | Melee, two-handed |
+
 # Addenda #
 
 ## Mounted Combat Rules ##
