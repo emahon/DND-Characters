@@ -10,19 +10,19 @@ Race: Forest Gnome
 
 Armor Class (AC): 12
 
-Mental Resistance (MR): 16
+Mental Resistance (MR): 18
 
 Passive constitution: 4
 
-Maximum Hit Points (HP): 68
+Maximum Hit Points (HP): 86
 
-Hit Dice: 11d6
+Hit Dice: 14d6
 
 Initiative: +2
 
 Speed: 25
 
-Proficiency Bonus: +4
+Proficiency Bonus: +5
 
 Spell Slots:
 1: 4(4)
@@ -31,6 +31,7 @@ Spell Slots:
 4: 3(3)
 5: 2(2)
 6: 1(1)
+7: 1(1)
 
 | ***Stats*** | | |
 | ----- | ----- | ----- |
@@ -38,7 +39,7 @@ Spell Slots:
 | DEX | 14 | (+2) |
 | CON | 14 | (+2) |
 | INT | 16 | (+3) |
-| WIS | 14 | (+2) |
+| WIS | 16 | (+3) |
 | CHA | 10 | (+0) |
 
 | || ***Saving Throws*** |
@@ -46,41 +47,41 @@ Spell Slots:
 |   | +0 | Strength |
 |   | +2 | Dexterity |
 |   | +2 | Constitution |
-| * | +7 | Intelligence |
-| * | +6 | Wisdom |
+| * | +8 | Intelligence |
+| * | +8 | Wisdom |
 |   | +0 | Charisma |
 
 | | | ***Skills*** | |
 | ----- | ----- | ----- | ----- |
 |   | +2 | Acrobatics | (Dex) |
-|   | +2 | Animal Handling | (Wis) |
+|   | +3 | Animal Handling | (Wis) |
 |   | +3 | Arcana | (Int) |
-| * | +4 | Athletics | (Str) |
+| * | +5 | Athletics | (Str) |
 |   | +0 | Deception | (Cha) |
 |   | +3 | History | (Int) |
-|   | +2 | Insight | (Wis) |
+|   | +3 | Insight | (Wis) |
 |   | +0 | Intimidataion | (Cha) |
-| * | +7 | Investigation | (Int) |
-| * | +6 | Medicine | (Wis) |
+| * | +8 | Investigation | (Int) |
+| * | +8 | Medicine | (Wis) |
 |   | +3 | Nature | (Int) |
-| * | +6 | Perception | (Wis) |
+| * | +8 | Perception | (Wis) |
 |   | +0 | Performance | (Cha) |
 |   | +0 | Persuasion | (Cha) |
 |   | +3 | Religion | (Int) |
 |   | +2 | Sleight of Hand | (Dex) |
 |   | +2 | Stealth | (Dex) |
-|   | +2 | Survival | (Wis) |
+|   | +3 | Survival | (Wis) |
 |   | +0 | Blocking | (Str) |
 
 Damage Resistances: Necrotic
 
 Gnome Cunning: All magical effects that roll against your MR roll at disadvantage, and you have advantage on mental saves against magic.
 
-Passive wisdom (perception): 16
+Passive wisdom (perception): 18
 
 Darkvision
 
-Level: 11
+Level: 14
 
 ### Proficiencies and Languages ###
 Languages: Common, Gnomish
@@ -93,11 +94,13 @@ Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
 
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Dagger (x2) | +4 | 2 | 4 | Piercing | 2 | 5 | melee |
-| Mental Spell Attack | +7 |
-| Physical Spell Attack | +6 |
+| Dagger (x2) | +5 | 2 | 4 | Piercing | 2 | 5 | melee |
+| Wizard Mental Spell Attack | +8 |
+| Wizard Physical Spell Attack | +7 |
+| Cleric Mental Spell Attack | +8 | 
+| Cleric Physical Spell Attack | +7 | 
 
-Spell Save DC: 15
+Spell Save DC: 16
 
 ### Equipment ###
 
@@ -132,6 +135,9 @@ Undead Thralls (Level 6): When you cast animate dead, you can target one additio
 * The creature adds your proficiency bonus to its weapon damage rolls
 
 Inured to Undeath (Level 10): You have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.
+
+Command Undead (Level 14): You can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. You make a mental spell attack roll and compare it to the creature's MR. If your spell attack succeeds, the creature becomes friendly to you and obeys your commands until you use this feature again. If your attack fails, you can't use this feature on it again.
+Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, your mental spell attack is made at disadvantage. If your spell attack succeeds and it has an Intelligence of 12 or higher, then at then end of every hour you must make a new mental spell attack against its MR and succeed to continue the control.
 
 ### Feats ###
 
@@ -422,7 +428,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 (Obtained via Magic Initiate - use Wisdom)
 
-Flame-like radiance descends on a creature that you can see within range. Make a ranged spell attack against the target If it hits, the target takes 1d8 radiant damage. The target gains no benefit from cover against this attack.
+Flame-like radiance descends on a creature that you can see within range. Make a ranged spell attack against the target. If it hits, the target takes 1d8 radiant damage. The target gains no benefit from cover against this attack.
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
@@ -466,6 +472,19 @@ You point at one creature you can see within range, and the sound of a dolorous 
 The spell’s damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
 
 ### Level 1 ###
+
+| ***Catapult*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Transmutation |
+| Time | 1 action |
+| Range | 60 ft |
+| Components | S |
+| Duration | Instantaneous |
+
+Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, make a physical spell attack roll. If it exceeds the creature's AC, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage. If the object is a weapon, what it strikes also takes the standard damage for the weapon.
+
+When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.
 
 | ***Cause Fear*** | |
 | ----- | ----- |
@@ -634,6 +653,20 @@ When you cast this spell using a spell slot of 2nd level or higher, roll an addi
 
 Until the start of your next turn, you have a +5 bonus to MR, including against the triggering attack, and automatically stops Charm Person.
 
+
+| ***Thunderwave*** | |
+| ----- | ----- |
+| Level | 1 |
+| School | Evocation |
+| Time | 1 action |
+| Range | Self (15-foot cube) |
+| Components | V, S |
+| Duration | Instantaneous |
+
+A wave of thunderous force sweeps out from you. Make a physical spell attack. Each creature in a 15-foot cube originating from you compares their passive constitution + 8 to your spell attack. If they fail, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
+
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
 ### Level 2 ###
 
 | ***Enlarge/Reduce*** | |
@@ -761,6 +794,33 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
+| ***Glyph of Warding*** | |
+| ----- | ----- |
+| Level | 3 |
+| School | Abjuration |
+| Time | 1 action |
+| Range | Touch |
+| Components | V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes) |
+| Duration | Until dispelled or triggered |
+
+When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph.
+
+If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
+
+The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.
+
+You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends.
+
+You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password.
+
+When you inscribe the glyph, choose explosive runes or a spell glyph.
+
+Explosive Runes. When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Make a physical spell attack. Each creature in the area takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), if the spell attack exceeds their AC.
+
+Spell Glyph. You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
+
+When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by 1d8 for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
+
 | ***Haste*** | |
 | ----- | ----- |
 | Level | 3 |
@@ -830,6 +890,18 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 ### Level 5 ###
 
+| ***Cone of Cold*** | | 
+| ----- | ----- | 
+| School | Evocation |
+| Time | 1 action |
+| Range | Self (60-foot cone) |
+| Components | V, S, M (a small crystal or glass cone) |
+| Duration | Instantaneous |
+
+A blast of cold air erupts from your hands. Each creature in a 60-foot cone takes 8d8 cold damage minus their passive constitution. A creature killed by this spell becomes a frozen statue until it thaws.
+
+When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+
 | ***Danse Macabre*** | |
 | ----- | ----- |
 | Level | 5 |
@@ -893,3 +965,39 @@ Borrow Experience. You can use a bonus action to bolster yourself with the soul�
 Eyes of the Dead. You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you’re currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
 A creature that can see the sensor (such as one using see invisibility or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
+
+### Level 7 ###
+
+| ***Finger of Death*** | |
+| ----- | ----- |
+| Level | 7 |
+| School | Necromancy |
+| Time | 1 action |
+| Range | 60 feet |
+| Components | V, S |
+| Duration | Instantaneous |
+
+You send negative energy coursing through a creature that you can see within range, causing it searing pain.  It takes 7d8 + 30 necrotic damage minus their passive constitution.
+
+A humanoid killed by this spell rises at the start of your next turn as a zombie that is permanently under your command, following your verbal orders to the best of its ability.
+
+| ***Forcecage*** | |
+| ----- | ----- |
+| Level | 7 |
+| School | Evocation |
+| Time | 1 action |
+| Range | 100 feet |
+| Components | V, S, M (ruby dust worth 1500 gp) |
+| Duration | 1 hour |
+
+An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box as you choose.
+
+A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.
+
+A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out of the area.
+
+When you cast the spell, any creature that is completely inside the cage’s area is trapped. Creatures only partially within the area, or those too large to fit inside the area, are pushed away from the center of the area until they are completely outside the area.
+
+A creature inside the cage can’t leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave the cage, the caster makes a mental spell attack against the creature's MR. If the mental spell attack fails, the creature can use that magic to exit the cage. If the mental spell attack succeeds, the creature can’t exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
+
+This spell can’t be dispelled by Dispel Magic.
