@@ -25,12 +25,12 @@ Speed: 25
 Proficiency Bonus: +5
 
 Spell Slots:
-1: 4(4)
+1: 2(4)
 2: 3(3)
-3: 3(3)
-4: 3(3)
+3: 0(3)
+4: 2(3)
 5: 2(2)
-6: 1(1)
+6: 0(1)
 7: 1(1)
 
 | ***Stats*** | | | |
@@ -161,7 +161,7 @@ Healer's Kit
 
 Holy Water (x3)
 
-Tiny silver cage worth 100 gp (for Soul Cage)
+Tiny silver cage worth 100 gp (for Soul Cage) - has a soul, 6 uses
 
 Superior Potion of Healing (Heals 28)
 
