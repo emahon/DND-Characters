@@ -8,7 +8,7 @@ Background: Sailor
 
 Race: Forest Gnome
 
-Armor Class (AC): 12
+Armor Class (AC): 13
 
 Mental Resistance (MR): 18
 
@@ -33,12 +33,12 @@ Spell Slots:
 6: 1(1)
 7: 1(1)
 
-| ***Stats*** | | |
-| ----- | ----- | ----- |
+| ***Stats*** | | | |
+| ----- | ----- | ----- | ----- | 
 | STR | 10 | (+0) |
 | DEX | 14 | (+2) |
 | CON | 14 | (+2) |
-| INT | 16 | (+3) |
+| INT | 18 | (+4) | (2 from Tome of Clear Thought) |
 | WIS | 16 | (+3) |
 | CHA | 10 | (+0) |
 
@@ -47,7 +47,7 @@ Spell Slots:
 |   | +0 | Strength |
 |   | +2 | Dexterity |
 |   | +2 | Constitution |
-| * | +8 | Intelligence |
+| * | +9 | Intelligence |
 | * | +8 | Wisdom |
 |   | +0 | Charisma |
 
@@ -55,19 +55,19 @@ Spell Slots:
 | ----- | ----- | ----- | ----- |
 |   | +2 | Acrobatics | (Dex) |
 |   | +3 | Animal Handling | (Wis) |
-|   | +3 | Arcana | (Int) |
+|   | +4 | Arcana | (Int) |
 | * | +5 | Athletics | (Str) |
 |   | +0 | Deception | (Cha) |
-|   | +3 | History | (Int) |
+|   | +4 | History | (Int) |
 |   | +3 | Insight | (Wis) |
 |   | +0 | Intimidataion | (Cha) |
-| * | +8 | Investigation | (Int) |
+| * | +9 | Investigation | (Int) |
 | * | +8 | Medicine | (Wis) |
-|   | +3 | Nature | (Int) |
+|   | +4 | Nature | (Int) |
 | * | +8 | Perception | (Wis) |
 |   | +0 | Performance | (Cha) |
 |   | +0 | Persuasion | (Cha) |
-|   | +3 | Religion | (Int) |
+|   | +4 | Religion | (Int) |
 |   | +2 | Sleight of Hand | (Dex) |
 |   | +2 | Stealth | (Dex) |
 |   | +3 | Survival | (Wis) |
@@ -95,7 +95,7 @@ Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Dagger (x2) | +5 | 2 | 4 | Piercing | 2 | 5 | melee |
-| Wizard Mental Spell Attack | +8 |
+| Wizard Mental Spell Attack | +9 |
 | Wizard Physical Spell Attack | +7 |
 | Cleric Mental Spell Attack | +8 | 
 | Cleric Physical Spell Attack | +7 | 
@@ -109,6 +109,8 @@ Arcane Focus (orb)
 Spellbook
 
 Bracers of Defense (Wonderous item, rare (requires attunement)): While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.
+
+Ring of Protection (Ring, rare (requires attunement)): You gain a +1 bonus to AC and saving throws while wearing this ring
 
 ### Features and Traits ###
 
@@ -162,6 +164,8 @@ Holy Water (x3)
 Tiny silver cage worth 100 gp (for Soul Cage)
 
 Superior Potion of Healing (Heals 28)
+
+Incense and powdered diamond worth at least 200 gp (x10)
 
 ## Familiar ##
 
@@ -255,7 +259,7 @@ Challenge Rating (CR): 1/8
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Hooves | +4 | 7 | 12 | Bludgeoning | N/A | 5 | melee |
 
-## Skeleton A ##
+## Skeleton x6 ##
 
 Skeleton
 
@@ -302,8 +306,6 @@ Challenge Rating (CR): 1/4
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Greatsword | +2 | 11 | 18 | Slashing | 7 | 5 | Melee, two-handed, heavy | 
 | Longbow | +4 | 10 | 15 | Piercing | N/A | N/A | Ammunition, range 150-600, heavy, two-handed |
-| Longsword (1 hand) | +2 | 8 | 13 | Slashing | 4 | 5 | Melee | 
-| Longsword (2 hand) | +2 | 9 | 15 | Slashing | 5 | 5 | Melee, two-handed |
 
 # Addenda #
 
