@@ -259,17 +259,17 @@ Challenge Rating (CR): 1/8
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Hooves | +4 | 7 | 12 | Bludgeoning | N/A | 5 | melee |
 
-## Skeleton x6 ##
+## The Skeleton Crew (Skeleton x6) ##
 
 Skeleton
 
 Medium Undead
 
-Armor Class (AC): 14
+Armor Class (AC): 17
 
 Mental Resistance (MR): 9
 
-Hit Points (HP): 24
+Hit Points (HP): 27
 
 Passive Constitution: 4
 
@@ -300,12 +300,14 @@ Passive wisdom (perception): 9
 
 Challenge Rating (CR): 1/4
 
+Half-plate armor (AC 15 + dex (max 2))
+
 ### Actions ###
 
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Greatsword | +2 | 11 | 18 | Slashing | 7 | 5 | Melee, two-handed, heavy | 
-| Longbow | +4 | 10 | 15 | Piercing | N/A | N/A | Ammunition, range 150-600, heavy, two-handed |
+| +1 Greatsword | +3 | 13 | 20 | Slashing | 13 | 5 | Melee, two-handed, heavy | 
+| +1 Heavy Crossbow | +5 | 13 | 19 | Piercing | N/A | N/A | Ammunition, heavy, loading, range 100-400, two-handed |
 
 # Addenda #
 
