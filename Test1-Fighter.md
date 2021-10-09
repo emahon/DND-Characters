@@ -14,28 +14,28 @@ Armor Class (AC): 19
 
 Mental Resistance (MR): 11
 
-Passive constitution: 14
+Passive constitution: 16
 
-Maximum Hit Points (HP): 125
+Maximum Hit Points (HP): 158
 
-Hit Dice: 11d10
+Hit Dice: 14d10
 
-Initiative: -1
+Initiative: 0
 
 Speed: 30
 
-Proficiency Bonus: +4
+Proficiency Bonus: +5
 
 Action Surge: [ ]
 
 Second Wind: [ ]
 
-
+Indomitable: [ ] [ ]
 
 | ***Stats*** | | |
 | ----- | ----- | ----- |
-| STR | 17 | (+3) |
-| DEX | 8  | (-1) |
+| STR | 18 | (+4) |
+| DEX | 10 | (+0) |
 | CON | 16 | (+3) |
 | INT | 12 | (+1) |
 | WIS | 12 | (+1) |
@@ -43,40 +43,42 @@ Second Wind: [ ]
 
 | || ***Saving Throws*** |
 | ----- | ----- | ----- |
-| * | +7 | Strength |
-|   | -1 | Dexterity |
-| * | +7 | Constitution |
+| * | +9 | Strength |
+|   | +0 | Dexterity |
+| * | +8 | Constitution |
 |   | +1 | Intelligence |
 |   | +1 | Wisdom |
 |   | -1 | Charisma |
 
 | | | ***Skills*** | |
 | ----- | ----- | ----- | ----- |
-| * | +3 | Acrobatics | (Dex) |
+| * | +5 | Acrobatics | (Dex) |
 |   | +1 | Animal Handling | (Wis) |
 |   | +1 | Arcana | (Int) |
-| * | +7 | Athletics | (Str) |
+| * | +9 | Athletics | (Str) |
 |   | -1 | Deception | (Cha) |
 |   | +1 | History | (Int) |
 |   | +1 | Insight | (Wis) |
-| * | +3 | Intimidataion | (Cha) |
+| * | +4 | Intimidataion | (Cha) |
 |   | +1 | Investigation | (Int) |
 |   | +1 | Medicine | (Wis) |
 |   | +1 | Nature | (Int) |
-| * | +5 | Perception | (Wis) |
+| * | +6 | Perception | (Wis) |
 |   | -1 | Performance | (Cha) |
 |   | -1 | Persuasion | (Cha) |
 |   | +1 | Religion | (Int) |
-|   | -1 | Sleight of Hand | (Dex) |
-|   | -1 | Stealth | (Dex) |
+|   | +0 | Sleight of Hand | (Dex) |
+|   | +0 | Stealth | (Dex) |
 |   | +1 | Survival | (Wis) |
-| * | +7 | Blocking | (Str) |
+| * | +9 | Blocking | (Str) |
 
-Passive wisdom (perception): 15
+While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from non-magical weapons is reduced by 3.
+
+Passive wisdom (perception): 16
 
 Darkvision
 
-Level: 11
+Level: 14
 
 ### Proficiencies and Languages ###
 Languages: Common, Orcish
@@ -93,19 +95,20 @@ Tools: Alchemist
 
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| +1 Glaive | +8 | 9 | 20 | Slashing | 13 | 10 | melee, two-handed, polearm |
-| Greatsword | +7 | 10 | 20 | Slashing | 14 | 5 | melee, two-handed, heavy |
-| +1 Javelin (x10) | +8 | 7 | 14 | Piercing | 11 | 5 | melee, range, thrown, range 30-120 |
-| +1 Glaive butt end | +8 | 6 | 11 | Bludgeoning | N/A | 5 | melee, bonus action if attack made with polearm immediately before |
-| +1 Lance | +8 | 10 | 23 | Piercing | 14 | 10 | melee, two-handed unless mounted, attacks with disadvantage on targets at or within 5 feet |
+| +2 Glaive | +11 | 11 | 22 | Slashing | 16 | 10 | melee, two-handed, polearm |
+| +2 Javelin (x10) | +11 | 9 | 16 | Piercing | 14 | 5 | melee, range, thrown, range 30-120 |
+| +2 Glaive butt end | +11 | 8 | 13 | Bludgeoning | N/A | 5 | melee, bonus action if attack made with polearm immediately before |
+| +2 Lance | +11 | 12 | 25 | Piercing | 17 | 10 | melee, two-handed unless mounted, attacks with disadvantage on targets at or within 5 feet |
 
-Maneuver save DC: 12
+Maneuver save DC: 13
 
 ### Equipment ###
 
 Plate armor (18 AC)
 
-Shield (+1 AC, blocks for 12)
+Shield (+1 AC, blocks for 13)
+
+Spellguard Shield: Armor (shield), very rare (requires attunement). While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.
 
 ### Features and Traits ###
 
@@ -128,6 +131,7 @@ Extra Attack (Level 5): You can attack twice, instead of once, whenever you take
 (Level 11) The number of attacks increases to three.
 
 Indomitable (Level 9): You can reroll a saving throw that you fail. Or, if you are hit by a mental effect, you may force the attacker to reroll. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+(Level 13): You can use it twice between long rests now.
 
 ##### Battlemaster Traits (Level 3) #####
 
@@ -177,6 +181,10 @@ Mounted Combatant:
 * You can force an attack targeted at your mount to target you instead.
 * If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
+Heavy Armor Master:
+* Increase your Strength score by 1, to a maximum of 20.
+* While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from non-magical weapons is reduced by 3.
+
 ### Inventory ###
 
 x Potion of Healing (Heals 7)
@@ -189,7 +197,7 @@ Warhorse
 
 Large beast
 
-Armor Class (AC): 17
+Armor Class (AC): 18
 
 Mental Resistance (MR): 10
 
@@ -230,7 +238,7 @@ Trampling Charge. If the horse moves at least 20 ft. straight toward a creature 
 
 Saddle of the Cavalier: While in this saddle on a mount, you can't be dismounted against your will if you're conscious, and attack rolls against the mount have disadvantage.
 
-Splint Barding (17 AC)
+Plate Barding (18 AC)
 
 # Addenda #
 
