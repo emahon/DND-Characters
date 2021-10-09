@@ -72,6 +72,10 @@ Spell Slots:
 |   | +2 | Survival | (Wis) |
 |   | +0 | Blocking | (Str) |
 
+Damage Resistances: Necrotic
+
+Gnome Cunning: All magical effects that roll against your MR roll at disadvantage, and you have advantage on mental saves against magic.
+
 Passive wisdom (perception): 16
 
 Darkvision

@@ -93,11 +93,11 @@ Tools: Alchemist
 
 | ***Name*** | ***Atk Bonus*** | ***Damage*** | ***Crit Damage*** | ***Type*** | ***Blocking*** | ***Reach*** | ***Notes***|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| +1 Glaive | +8 | 9 | 20 | Slashing | 13 | 10 | melee, two handed, polearm |
-| Greatsword | +7 | 10 | 20 | Slashing | 14 | 5 | melee, 2-handed |
+| +1 Glaive | +8 | 9 | 20 | Slashing | 13 | 10 | melee, two-handed, polearm |
+| Greatsword | +7 | 10 | 20 | Slashing | 14 | 5 | melee, two-handed, heavy |
 | +1 Javelin (x10) | +8 | 7 | 14 | Piercing | 11 | 5 | melee, range, thrown, range 30-120 |
 | +1 Glaive butt end | +8 | 6 | 11 | Bludgeoning | N/A | 5 | melee, bonus action if attack made with polearm immediately before |
-| +1 Lance | +8 | 10 | 23 | Piercing | 14 | 10 | melee, two handed unless mounted, attacks with disadvantage on targets at or within 5 feet |
+| +1 Lance | +8 | 10 | 23 | Piercing | 14 | 10 | melee, two-handed unless mounted, attacks with disadvantage on targets at or within 5 feet |
 
 Maneuver save DC: 12
 
