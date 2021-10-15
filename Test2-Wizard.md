@@ -14,7 +14,7 @@ Mental Resistance (MR): 18
 
 Passive constitution: 4
 
-Maximum Hit Points (HP): 86
+Hit Points: 70(86)
 
 Hit Dice: 14d6
 
@@ -25,10 +25,10 @@ Speed: 25
 Proficiency Bonus: +5
 
 Spell Slots:
-1: 2(4)
+1: 1(4)
 2: 3(3)
 3: 0(3)
-4: 2(3)
+4: 1(3)
 5: 2(2)
 6: 0(1)
 7: 1(1)
@@ -269,7 +269,7 @@ Armor Class (AC): 17
 
 Mental Resistance (MR): 9
 
-Hit Points (HP): 27
+Hit Points: (27)
 
 Passive Constitution: 4
 

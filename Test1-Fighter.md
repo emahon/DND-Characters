@@ -8,7 +8,7 @@ Background: Sailor
 
 Race: Half-Orc
 
-5(5) Superiority Dice: d10(5)
+3(5) Superiority Dice: d10(5)
 
 Armor Class (AC): 19
 
@@ -16,7 +16,7 @@ Mental Resistance (MR): 11
 
 Passive constitution: 16
 
-Maximum Hit Points (HP): 158
+Hit Points: 66(158)
 
 Hit Dice: 14d10
 
@@ -26,9 +26,9 @@ Speed: 30
 
 Proficiency Bonus: +5
 
-Action Surge: [ ]
+Action Surge: [ / ]
 
-Second Wind: [ ]
+Second Wind: [ / ]
 
 Indomitable: [ ] [ ]
 
